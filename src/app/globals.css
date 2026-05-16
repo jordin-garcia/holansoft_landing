@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f5f1;
+  --foreground: #062f55;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #ff7118;
+  color: #ffffff;
+}
+
+.hero-shell {
+  background:
+    linear-gradient(135deg, #062f55 0%, #0d4672 45%, #ff7118 140%);
+}
+
+.hero-backdrop {
+  filter: saturate(1.12) contrast(1.04);
+}
+
+.section-kicker {
+  color: #ff7118;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.screen-frame::before {
+  background:
+    linear-gradient(90deg, #ff7118 0 12px, #f6f8fb 12px 100%),
+    linear-gradient(#f6f8fb, #f6f8fb);
+  border-bottom: 1px solid #e4e9ef;
+  content: "";
+  display: block;
+  height: 18px;
+}
+
+@media (max-width: 640px) {
+  .hero-backdrop {
+    object-position: 68% 38%;
+  }
+}
