@@ -1,0 +1,289 @@
+--- PÁGINA 1 ---
+MANUAL DE USUARIO
+HOLANSOFT
+J0SÉ JAVIER RODRÍGUEZ ALVARADO 1535524DIEGO ALEJANDRO OVALLE PEDROZA 1500324HÉCTOR JORDIN ADOLFO GARCÍA COYOY 2427124
+
+--- PÁGINA 2 ---
+MENU PRINCIPAL
+MENU PRINCIPAL
+En este apartado tenemos el menu
+principal donde se puede
+interactuar con con los diferentes
+modulos segun la conveniencia del
+usuario
+En la barra superior del
+programa tene mos este botón
+que nos ayuda a escoger el
+lenguaje del sistema entre
+Español/Ingles
+En la parte superior
+izquierda encontramos
+el usuario que estamos
+utilizando
+
+--- PÁGINA 3 ---
+MODULO DASHBOARD
+MODULO DASHBOARD
+Botón Actualizar: Permite refrescar los datos del panel en tiempo
+real
+Botón Exportar: Permite descardar reportes y datos en formato
+PDF
+Total Productos: Muestra la cantidad de productos registrados en
+el modulo compras
+Stock Bajo: Una alerta que indica cuántos productos están por
+debajo del límite mínimo implementado por el administrador. Se
+puede  hacer clic en "Mostrar Lista" para ver cuáles necesitan
+reabastecimiento
+Compras Mes: Sumatoria total en Quetzales de la mercancía
+adquirida durante el mes Incluye un enlace a "Ver Compras"
+Ventas Totales: Sumatoria total en Quetzales de los ingresos
+generados por ventas en el mes, Incluye un enlace a "Ver Reportes"
+Ventas de la Semana: Muestra el acumulado de ingresos
+generados específicamente en la semana en curso
+Salud del Inventario: Un indicador porcentual que mide la
+optimización de tu stock segun su balance y pocos productos
+agotados
+Alertas de Stock: Un módulo de atención visual que te recuerda el
+número de notificaciones críticas pendientes con respecto al
+inventario bajo de un pruducto en especifico
+
+--- PÁGINA 4 ---
+G r á f i c a  d e  V e n t a s :  M u e s t r a  d e  f o r m a
+m e n s u a l  l a s  b a r r a s  d e  i n g r e s o s ,   
+a y u d a  a  i d e n t i f i c a r  q u é  m e s e s  d e l
+a ñ o  h a n  s i d o  l o s  m á s  p r o d u c t i v o s .
+Gráfica de Compras: Permite visualizar
+los meses en los que se invirtió más
+dinero en adquisición de mercancía.
+Cuenta con un filtro en la esquina
+superior derecha para alternar la vista
+entre Día, Semana o Mes
+
+--- PÁGINA 5 ---
+E s t e  g r á f i c o  c i r c u l a r  p e r m i t e  e n t e n d e r  v i s u a l m e n t e
+c ó m o  e s t á  c o m p u e s t o  t u  i n v e n t a r i o ,  C a d a  c o l o r
+r e p r e s e n t a  u n a  c a t e g o r í a  e s p e c í f i c a  d e l  n e g o c i o ,  a l
+p a s a r  e l  c u r s o r  s o b r e  c a d a  u n a  d e  l a s  s e c c i o n e s  s e
+p o d r á  v e r  l a  c a n t i d a d  d e  p r o d u c t o  t o t a l  d e  c a d a  u n o
+d e  e l l o s
+Está gráfica que calcula automáticamente tu
+ganancia neta, si la barra se muestra en color rojo
+significa que en ese periodo los gastos superaron a
+los ingresos.
+
+--- PÁGINA 6 ---
+Actividad Reciente: Un historial tipo bitácora que muestra los últimos movimientos
+registrados en el sistema en orden cronológico ya sea que se hayan realizado
+ventas o compras
+Tarjeta de Rendimiento: Muestra el Margen de Utilidad actual del negocio expresado en
+porcentaje midiendo los gastos y los ingresos 
+
+--- PÁGINA 7 ---
+MODULO POS
+MODULO POS
+En este modulo POS tenemos el punto de ventas
+en el cual tenemos una barra de búsqueda de
+productos mediante nombre o código unico.
+Abajo de esa barra de busqueda tenemos una
+lista de productos que contiene su codigo unico,
+nombre y precio por unidad.
+En este apartado tenemos la opcion de realizar
+un boleto de compra como consumidor final o
+colocar el nombre del cliente agregandolo en el
+botón de más.
+Este apartado registra los productos que fueron
+seleccionados en la lista anterior los cuales se
+seleccionan los que el cliente desea,  apareceré
+el nombre del producto, el precio por unidad , la
+cantidad que el cliente desea de tal producto y el
+total si en dado caso el cliente desea más de un
+producto de alguno en especifico.
+Botón de eliminar: Este botón nos ayuda a
+eliminar toda la venta que estamos
+realizando si en dado caso el clliente no lo
+desea.
+Botón de Finalizar venta: Este botón nos
+ayuda a terminar la venta de manera
+correcta y al hacer click registra la venta y
+nos llevara a la siguiente ventana
+
+--- PÁGINA 8 ---
+Tenemos 2 botones más en el cual el que esta a la izquierda nos
+permite cerrar esta ventana si el cliente no desea factura y si el
+cliente desea una factura realizamos click en el que esta a la
+derecha y este nos dirigira a la factura
+está es la factura que se genera en el click anterior la
+cual podemos imprimir para entregarsela al cliente que
+la solicito.
+
+--- PÁGINA 9 ---
+MODULO PRODUCTOS
+MODULO PRODUCTOS
+En este modulo Productos tenemos el catálogo de productos en el
+cual tenemos diferentes apartados, primero encontramos una
+barra de busqueda que nos permite encontrar productos de
+manera facil mediante su codigo unico o mediante el nombre del
+producto.
+Tambien contiene un listado de todos los productos que estan
+distribuidos por su codigo unico, el nombre del producto, su
+categoria, precio por unidad, stock, estado dependiendo del stock
+y dos botones de acciones. 
+Este boton nos permite agreagar un nuevo
+preducto al catalogo de productos, al momento
+de hacer click nos redirige a una ventana para
+agregar productos
+Estos botones nos ayudan a 2 cosas
+diferentes: el de la izquierda nos ayuda a
+editar el prducto que esta agregado.
+El botón de la derecha nos ayuda a
+eliminar permanentemente el producto
+que hemos agregado anteriormente 
+
+
+--- PÁGINA 10 ---
+Esta ventana se abre  al momento de hacer click en el botón
+de agregar producto, en este llenaremos cada casilla con los
+datos del producto que se quiera añadir al inventario y al
+terminar presionaremos en botón de “Guardar Producto”.
+
+--- PÁGINA 11 ---
+Este botón nos ayuda a ver los
+productos que están bajos de stock
+Este botón nos ayuda a clasificar los productos
+dependiendo de su categoria para poder
+identificarlos mas facilmente
+Este botón nos permite importar un inventario ya
+creado en otra base de datos
+Este botón nor permite exportar un documento en
+pdf para tener un reporte de todos los productos
+agregados al sistema.
+
+--- PÁGINA 12 ---
+MODULO VENTAS
+MODULO VENTAS
+En este modulo ventas tenemos el registro de ventas en el cual
+tenemos diferentes apartados, primero encontramos una barra de
+búsqueda que nos permite encontrar la venta mediante en
+número de recibo o el nombre del cliente. 
+También contiene un listado de todos los productos que están
+distribuidos por su número de factura, el nombre del cliente, su
+fecha de emisión de la factura, la cantidad de productos
+comprados, el total de la factura y 3 botones de acciones. 
+
+--- PÁGINA 13 ---
+Este botón nos permite
+editar una venta editando
+las casillas con los datos
+que se quieran modificar
+y al terminar presionar el
+botón “Guardar Cambios”
+Este botón nos permite  
+eliminar una venta, en el
+cual si presionamos el
+botón por accidente
+podemos cancelar esta
+ventana o eliminar
+definitivamente la venta.
+Este botón nos permite
+imprimir la factura de
+venta en el caso que un
+cliente la quiera al
+momento de realizar su
+compra.
+
+--- PÁGINA 14 ---
+MODULO COMPRAS
+MODULO COMPRAS
+En este modulo Compras tenemos el Registro de compras en el
+cual tenemos diferentes apartados, primero encontramos una
+barra de busqueda que nos permite encontrar productos de
+manera facil mediante mendiante en numero del proveedor o
+mediante el nombre del proveedor.
+También contiene un listado de todas las compras las cuales están
+distribuidas por su número de factura, el nombre del proveedor,
+su fecha de compra, cantidad de productos comprados, el total
+que se pago y tres botones de acciones. 
+Estos botones nos ayudan a 3 cosas diferentes:
+el de la izquierda nos ayuda a visualizar los
+detalles de la compra. El botón del centro nos
+ayuda a editar la compra modificando las casillas
+con los datos a cambiar.
+El botón de la derecha nos ayuda a eliminar
+permanentemente la compra que hemos
+agregado anteriormente 
+
+--- PÁGINA 15 ---
+Este botón al hacer click nos abre la pestaña de registro de compra,
+en el cual debemos llenar las casillas con los datos del producto que
+deseamos comprar y al terminar presionamos el botón “Confirmar
+Ingreso de Compra”
+Este botón nos sirve para
+agregar un nuevo
+proveedor de producto o
+podemos utilizar uno que
+ya tenemos agregado.
+
+--- PÁGINA 16 ---
+MODULO REPORTES
+MODULO REPORTES
+Ingresos Totales: Muestra la sumatoria total acumuladade
+todas las transacciones filtradas
+Movimientos: Indica la cantidad exacta de registros o
+transacciones que coinciden con los criterios de búsqueda
+seleccionados.
+Promedio / Trans.: Calcula el valor promedio de ticket por
+cada transacción realizada.
+
+--- PÁGINA 17 ---
+En este modulo Reportes tenemos Reportes Avanzados en el cual
+tenemos diferentes apartados, primero encontramos un sistema
+de filtros rápidos en el cual ordena la información de la lista por
+día, semana o un rango en especifico, después tenemos una barra
+de búsqueda que nos permite encontrar de manera fácil mediante
+nombre de los productos, nombre de los clientes o proveedores.
+También contiene un listado de todos los productos que están
+distribuidos por el nombre del producto y el código , el nombre
+del cliente, su fecha de emisión  y el monto total.
+Al momento de que se haga click en el apartado de filtro rapido en
+el apartado de rango, se despliega este apartado que permite que
+el usuiario hago una busqueda mediante un rango de fechas
+establecidas por el.
+Al momento de interactuar con el tipo de
+informacion que se desea mostrar en el
+listado de movimientos tenemos este
+despliegue de opciones en el cual
+tenemos para escoger si queremos ver
+solo las ventas realizadas o las compras
+registradas en esta lista.
+
+--- PÁGINA 18 ---
+MODULO USUARIOS
+MODULO USUARIOS
+En este modulo Usuarios tenemos los usuarios del sistema en el
+cual tenemos diferentes apartados, primero encontramos una
+barra de búsqueda que nos permite encontrar los usuarios de
+manera fácil.
+También contiene un listado de todos los usuarios que están
+distribuidos su nombre de usuario, el nombre completo, su rol, la
+fecha de creación y sus 2 respectivos botones de acciones. 
+Este botón nos permite agregar un nuevo usuario, al momento de
+hacer click nos redirige a una ventana para agregar nuevos
+usuarios
+Esta ventana se abre  al momento de hacer click en el botón
+de “Nuevo Usuario”, en este llenaremos cada casilla con los
+datos del usuario que se quiera añadir al sistema y al
+terminar presionaremos en botón de “Agregar”.
+
+--- PÁGINA 19 ---
+MODULO CONFIGURACIÓN
+MODULO CONFIGURACIÓN
+En este modulo configuración tenemos la configuración del
+negocio en el cual tenemos diferentes apartados, primero
+encontramos en un apartado el nombre del sistema y un mensaje
+de infomación.
+También contiene diferentes apartados, donde en el primero nos
+permite cambiar el nombre del negocio, como tambien almacenar
+la información necesaria del negocio como lo es el número de
+teléfono, la dirección y el correo electrónico. 
+Al final encontramos un botón que dice “Guardar cambios” en el
+cual si hacemos click se guarda la información que modificamos.
